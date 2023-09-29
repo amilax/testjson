@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "type": "head office building",
         "province": "central",
         "district": "kandy",
@@ -9,7 +9,7 @@
         "address": "57 Bowman Drive"
     },
     {
-        "id": 2,
+        "id": "2",
         "type": "rovince support center building",
         "province": "central",
         "district": "kandy",
@@ -18,7 +18,7 @@
         "address": "57 Bowman Drive"
     },
     {
-        "id": 3,
+        "id": "3",
          "type": "Regional Manager office building",
         "province": "central",
         "district": "kandy",
@@ -27,7 +27,7 @@
         "address": "57 Bowman Drive"
     },
     {
-        "id": 4,
+        "id": "4",
         "type": "Water supply scheme building",
         "province": "central",
         "district": "kandy",
@@ -36,7 +36,7 @@
         "address": "57 Bowman Drive"
     },
     {
-        "id": 5,
+        "id": "5",
         "type": "Water treatment plant",
         "province": "central",
         "district": "kandy",
@@ -45,7 +45,7 @@
         "address": "57 Bowman Drive"
     },
     {
-        "id": 6,
+        "id": "6",
         "type": "Water tanks",
         "province": "central",
         "district": "kandy",
@@ -54,7 +54,7 @@
         "address": "57 Bowman Drive"
     },
     {
-        "id": 7,
+        "id": "7",
         "type": "Water tanks",
         "province": "central",
         "district": "kandy",
@@ -63,7 +63,7 @@
         "address": "57 Bowman Drive"
     },
     {
-        "id": 8,
+        "id": "8",
         "type": "head office building",
         "province": "central",
         "district": "kandy",
@@ -72,7 +72,7 @@
         "address": "57 Bowman Drive"
     },
     {
-        "id": 9,
+        "id": "9",
       "type": "Water treatment plant",
         "province": "central",
         "district": "kandy",
@@ -81,7 +81,7 @@
         "address": "57 Bowman Drive"
     },
     {
-        "id": 10,
+        "id": "10",
        "type": "Water tanks",
         "province": "central",
         "district": "kandy",

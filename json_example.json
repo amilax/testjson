@@ -1,7 +1,7 @@
 [
     {
         "id": "1/x",
-        "type": "head office building",
+        "type": "Head office building",
         "province": "central",
         "district": "kandy",
         "dsDivision": "kundasale",
@@ -10,7 +10,7 @@
     },
     {
         "id": "2/x",
-        "type": "rovince support center building",
+        "type": "Province support center building",
         "province": "central",
         "district": "kandy",
         "dsDivision": "kundasale",
